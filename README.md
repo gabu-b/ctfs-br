@@ -1,11 +1,11 @@
 # CTF's Brasileiros ![alt text](https://ctf-br.org/wp-content/uploads/2014/12/icon_256x2561.png "CTF BR")
 
-Compilado dos eventos de Capture the Flag **(CTF's)*** do Brasil, incluindo jogos de eventos e plataformas _Online_.
+Compilado dos eventos de Capture the Flag **(CTF's)** do Brasil, incluindo jogos de eventos e plataformas _Online_.
 
 - Lista Aberta a Contribuições!
 
 #### Fontes de Informação para CTF no Brasil:
-- [CTF-BR ORG ](https://ctf-br.org/)]
+- [CTF-BR ORG ](https://ctf-br.org/)
 - [Epic Leet Team ](https://epicleet.team/)
 
 
