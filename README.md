@@ -4,6 +4,11 @@ Compilado dos eventos de Capture the Flag **(CTF's)*** do Brasil, incluindo jogo
 
 - Lista Aberta a Contribuições!
 
+#### Fontes de Informação para CTF no Brasil:
+- [CTF-BR ORG ](https://ctf-br.org/)
+- [Epic Leet Team] (https://epicleet.team/)
+
+
 ### Próximos CTF's Brasileiros
 
 |     Nome do Evento     |   Tipo de CTF   |   Formato  |                      Data                    |                     URL                    |                         Informações Extras                        |
