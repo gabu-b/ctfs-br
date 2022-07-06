@@ -1,4 +1,5 @@
 # CTF's Brasileiros ![alt text](https://ctf-br.org/wp-content/uploads/2014/12/icon_256x2561.png "CTF BR")
+(CTF BR logo by thezakman - https://github.com/thezakman)
 
 Compilado dos eventos de Capture the Flag **(CTF's)** do Brasil, incluindo jogos de eventos e plataformas _Online_.
 
